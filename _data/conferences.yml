@@ -240,6 +240,21 @@
   note: Mandatory abstract deadline on January 11, 2024. More info <a href='https://ics2024.github.io/cfp.html'>here</a>.
 
 #----------------CA-----------------#
+- title: HiPEAC
+  year: 2024
+  id: hipeac24
+  full_name: International Conference on High Performance Embedded Architectures and Compilers
+  link: https://www.hipeac.net/2024/munich/#/
+  deadline: '2023-05-31 23:59:59'
+  timezone: UTC-12
+  place: Munich, Germany
+  date: Jan 17-19, 2024
+  start: 2024-01-17
+  end: 2024-01-19
+  hindex: -1
+  sub: CA
+  note: More info <a href='https://www.hipeac.net/2024/munich/#/call-for-papers/'>here</a>.
+
 - title: ICCD
   year: 2023
   id: iccd23
