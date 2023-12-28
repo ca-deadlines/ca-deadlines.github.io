@@ -1,20 +1,20 @@
 ## CA Deadlines
 
-Countdown timers to keep track of popular CA/HPC/EDA/NoC conference deadlines. To keep things minimal, only top-tier conferences as per [conferenceranks.com][1] and personal preferences are listed.
+Countdown timers to keep track of popular CA/HPC/EDA/NoC conference deadlines. To keep things minimal, only top-tier conferences based on [conferenceranks.com][1] and personal preferences are listed.
 
-This project is a fork of [ai-deadlines][2]. It is maintained by [Abhijit Das][3]
+This project is a fork of [ai-deadlines][2]. It is maintained by [Abhijit Das][3].
 
 ## Contribution
 
 Contributions are very welcome!
 
 To add or update a deadline:
-- Fork the repository
+- Fork the repository.
 - Update `_data/conferences.yml`
-- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
+- Make sure it has `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, and `sub` attributes.
     + See available timezone strings [here](https://momentjs.com/timezone/).
 - Other attributes like `note`, `abstract_deadline`, etc. are optional.
-    + `hindex` refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
+    + `hindex` refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng).
 - Example:
     ```yaml
     - title: BestConf
@@ -35,11 +35,11 @@ To add or update a deadline:
       sub: CA
       note: Important
     ```
-- Send a pull request
+- Send a pull request.
 
 ## License
 
-This project is licensed under [MIT][4]. It uses [IcoMoon Icons](https://icomoon.io/#icons-icomoon): [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY4.0](http://creativecommons.org/licenses/by/4.0/)
+This project is licensed under [MIT][4]. It uses [IcoMoon Icons](https://icomoon.io/#icons-icomoon): [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 [1]: http://www.conferenceranks.com/
 [2]: https://github.com/paperswithcode/ai-deadlines
