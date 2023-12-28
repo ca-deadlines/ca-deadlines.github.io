@@ -1,18 +1,34 @@
 #----------------MIX----------------#
-- title: IISWC
-  year: 2023
-  id: iiswc23
-  full_name: IEEE International Symposium on Workload Characterization
-  link: https://iiswc.org/
-  deadline: '2023-06-16 23:59:59'
+- title: IPDPS
+  year: 2024
+  id: ipdps24
+  full_name: International Parallel and Distributed Processing Symposium
+  link: https://www.ipdps.org/
+  deadline: '2023-10-05 23:59:59'
+  abstract_deadline: '2023-09-28 23:59:59'
   timezone: UTC-12
-  place: Ghent, Belgium
-  date: Oct 01-03, 2024
-  start: 2024-10-01
-  end: 2024-10-03
+  place: San Francisco, USA
+  date: May 27-31, 2024
+  start: 2024-05-27
+  end: 2024-05-31
   hindex: -1
   sub: MIX
-  note: More info <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>here</a>.
+  note: Mandatory abstract deadline on September 28, 2023. More info <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html'>here</a>.
+
+- title: MLSys
+  year: 2024
+  id: mlsys24
+  full_name: Conference on Machine Learning and Systems
+  link: https://mlsys.org/
+  deadline: '2023-10-27 15:59:59'
+  timezone: UTC-5
+  place: Santa Clara, USA
+  date: May 13-16, 2024
+  start: 2024-05-13
+  end: 2024-05-16
+  hindex: -1
+  sub: MIX
+  note: More info <a href='https://mlsys.org/Conferences/2024/CallForPapers'>here</a>.
 
 - title: ISPASS
   year: 2024
@@ -30,54 +46,22 @@
   sub: MIX
   note: Mandatory abstract deadline on December 08, 2023. More info <a href='https://ispass.org/ispass2024/'>here</a>.
 
-- title: MLSys
-  year: 2024
-  id: mlsys24
-  full_name: Conference on Machine Learning and Systems
-  link: https://mlsys.org/
-  deadline: '2023-10-27 15:59:59'
-  timezone: UTC-5
-  place: Santa Clara, USA
-  date: May 13-16, 2024
-  start: 2024-05-13
-  end: 2024-05-16
-  hindex: -1
-  sub: MIX
-  note: More info <a href='https://mlsys.org/Conferences/2024/CallForPapers'>here</a>.
-
-- title: IPDPS
-  year: 2024
-  id: ipdps24
-  full_name: International Parallel and Distributed Processing Symposium
-  link: https://www.ipdps.org/
-  deadline: '2023-10-05 23:59:59'
-  abstract_deadline: '2023-09-28 23:59:59'
+- title: IISWC
+  year: 2023
+  id: iiswc23
+  full_name: IEEE International Symposium on Workload Characterization
+  link: https://iiswc.org/
+  deadline: '2023-06-16 23:59:59'
   timezone: UTC-12
-  place: San Francisco, USA
-  date: May 27-31, 2024
-  start: 2024-05-27
-  end: 2024-05-31
+  place: Ghent, Belgium
+  date: Oct 01-03, 2023
+  start: 2023-10-01
+  end: 2023-10-03
   hindex: -1
   sub: MIX
-  note: Mandatory abstract deadline on September 28, 2023. More info <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html'>here</a>.
+  note: More info <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>here</a>.
 
 #----------------NoC----------------#
-- title: HotI
-  year: 2023
-  id: hoti23
-  full_name: International Symposium on High-Performance Interconnects
-  link: https://hoti.org/
-  deadline: '2023-05-19 23:59:59'
-  abstract_deadline: '2023-05-19 23:59:59'
-  timezone: UTC-12
-  place: Virtual
-  date: Aug 23-25, 2023
-  start: 2023-08-23
-  end: 2023-08-25
-  hindex: -1
-  sub: NoC
-  note: Mandatory abstract deadline on May 19, 2023. More info <a href='https://hoti.org/call-for-papers/'>here</a>.
-
 - title: NoCArc
   year: 2023
   id: nocarc23
@@ -110,6 +94,22 @@
   sub: NoC
   note: Mandatory abstract deadline on May 08, 2023. More info <a href='https://nocs2023.github.io/cfp.html'>here</a>.
 
+- title: HotI
+  year: 2023
+  id: hoti23
+  full_name: International Symposium on High-Performance Interconnects
+  link: https://hoti.org/
+  deadline: '2023-05-19 23:59:59'
+  abstract_deadline: '2023-05-19 23:59:59'
+  timezone: UTC-12
+  place: Virtual
+  date: Aug 23-25, 2023
+  start: 2023-08-23
+  end: 2023-08-25
+  hindex: -1
+  sub: NoC
+  note: Mandatory abstract deadline on May 19, 2023. More info <a href='https://hoti.org/call-for-papers/'>here</a>.
+
 #----------------EDA----------------#
 - title: ESWEEK
   year: 2024
@@ -126,6 +126,54 @@
   hindex: -1
   sub: EDA
   note: More info <a href='https://esweek.org/author-information/'>here</a>.
+
+- title: DAC
+  year: 2024
+  id: dac24
+  full_name: Design Automation Conference
+  link: https://www.dac.com/
+  deadline: '2023-11-20 16:59:59'
+  abstract_deadline: '2023-11-13 16:59:59'
+  timezone: UTC-8
+  place: San Francisco, USA
+  date: Jun 23-27, 2024
+  start: 2024-06-23
+  end: 2024-06-27
+  hindex: -1
+  sub: EDA
+  note: Mandatory abstract deadline on November 13, 2023. More info <a href='https://www.dac.com/Conference/2024-Call-for-Contributions'>here</a>.
+
+- title: DATE
+  year: 2024
+  id: date24
+  full_name: Design, Automation and Test in Europe Conference
+  link: https://www.date-conference.com/
+  deadline: '2023-09-17 23:59:59'
+  abstract_deadline: '2023-09-10 23:59:59'
+  timezone: UTC-12
+  place: Valencia, Spain
+  date: Mar 25-27, 2024
+  start: 2024-03-25
+  end: 2024-03-27
+  hindex: -1
+  sub: EDA
+  note: Mandatory abstract deadline on September 10, 2023. More info <a href='https://www.date-conference.com/call-for-papers'>here</a>.
+
+- title: ASP-DAC
+  year: 2024
+  id: aspdac24
+  full_name: Asia and South Pacific Design Automation Conference
+  link: https://aspdac.gabia.io/
+  deadline: '2023-08-04 16:59:59'
+  abstract_deadline: '2023-07-28 16:59:59'
+  timezone: UTC-12
+  place: Incheon, South Korea
+  date: Jan 22-25, 2024
+  start: 2024-01-22
+  end: 2024-01-25
+  hindex: -1
+  sub: EDA
+  note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://aspdac.gabia.io/cfp/index.html'>here</a>.
 
 - title: VLSID
   year: 2024
@@ -158,71 +206,7 @@
   sub: EDA
   note: Mandatory abstract deadline on May 15, 2023. More info <a href='https://2023.iccad.com/scientific-papers'>here</a>.
 
-- title: ASP-DAC
-  year: 2024
-  id: aspdac24
-  full_name: Asia and South Pacific Design Automation Conference
-  link: https://aspdac.gabia.io/
-  deadline: '2023-08-04 16:59:59'
-  abstract_deadline: '2023-07-28 16:59:59'
-  timezone: UTC-12
-  place: Incheon, South Korea
-  date: Jan 22-25, 2024
-  start: 2024-01-22
-  end: 2024-01-25
-  hindex: -1
-  sub: EDA
-  note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://aspdac.gabia.io/cfp/index.html'>here</a>.
-
-- title: DATE
-  year: 2024
-  id: date24
-  full_name: Design, Automation and Test in Europe Conference
-  link: https://www.date-conference.com/
-  deadline: '2023-09-17 23:59:59'
-  abstract_deadline: '2023-09-10 23:59:59'
-  timezone: UTC-12
-  place: Valencia, Spain
-  date: Mar 25-27, 2024
-  start: 2024-03-25
-  end: 2024-03-27
-  hindex: -1
-  sub: EDA
-  note: Mandatory abstract deadline on September 10, 2023. More info <a href='https://www.date-conference.com/call-for-papers'>here</a>.
-
-- title: DAC
-  year: 2024
-  id: dac24
-  full_name: Design Automation Conference
-  link: https://www.dac.com/
-  deadline: '2023-11-20 16:59:59'
-  abstract_deadline: '2023-11-13 16:59:59'
-  timezone: UTC-8
-  place: San Francisco, USA
-  date: Jun 23-27, 2024
-  start: 2024-06-23
-  end: 2024-06-27
-  hindex: -1
-  sub: EDA
-  note: Mandatory abstract deadline on November 13, 2023. More info <a href='https://www.dac.com/Conference/2024-Call-for-Contributions'>here</a>.
-
 #----------------HPC----------------#
-- title: SBAC-PAD
-  year: 2023
-  id: sbacpad23
-  full_name: International Symposium on Computer Architecture and High Performance Computing
-  link: https://cradrs.github.io/sbacpad2023/
-  deadline: '2023-06-25 23:59:59'
-  abstract_deadline: '2023-06-25 23:59:59'
-  timezone: UTC-12
-  place: Porto Alegre, Brazil
-  date: Oct 17-20, 2023
-  start: 2023-10-17
-  end: 2023-10-20
-  hindex: -1
-  sub: HPC
-  note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://cradrs.github.io/sbacpad2023/cfp/'>here</a>.
-
 - title: SC
   year: 2024
   id: sc24
@@ -255,7 +239,71 @@
   sub: HPC
   note: Mandatory abstract deadline on January 11, 2024. More info <a href='https://ics2024.github.io/cfp.html'>here</a>.
 
+- title: SBAC-PAD
+  year: 2023
+  id: sbacpad23
+  full_name: International Symposium on Computer Architecture and High Performance Computing
+  link: https://cradrs.github.io/sbacpad2023/
+  deadline: '2023-06-25 23:59:59'
+  abstract_deadline: '2023-06-25 23:59:59'
+  timezone: UTC-12
+  place: Porto Alegre, Brazil
+  date: Oct 17-20, 2023
+  start: 2023-10-17
+  end: 2023-10-20
+  hindex: -1
+  sub: HPC
+  note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://cradrs.github.io/sbacpad2023/cfp/'>here</a>.
+
 #----------------CA-----------------#
+- title: ISCA
+  year: 2024
+  id: isca24
+  full_name: International Symposium on Computer Architecture
+  link: https://iscaconf.org/isca2024/
+  deadline: '2023-11-21 23:59:59'
+  abstract_deadline: '2023-11-14 23:59:59'
+  timezone: UTC-12
+  place: Buenos Aires, Argentina
+  date: Jun 29-Jul 03, 2024
+  start: 2024-06-29
+  end: 2024-07-03
+  hindex: -1
+  sub: CA
+  note: Mandatory abstract deadline on November 14, 2023. More info <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>here</a>.
+
+- title: ASPLOS
+  year: 2024
+  id: asplos24
+  full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
+  link: https://www.asplos-conference.org/asplos2024/
+  deadline: '2023-11-30 14:59:59'
+  abstract_deadline: '2023-11-24 14:59:59'
+  timezone: UTC-5
+  place: San Diego, USA
+  date: Apr 27-May 01, 2024
+  start: 2024-04-27
+  end: 2024-05-01
+  hindex: -1
+  sub: CA
+  note: This is the Fall cycle. Mandatory paper-registration deadline on November 24, 2023. More info <a href='https://www.asplos-conference.org/asplos2024/cfp/'>here</a>.
+
+- title: HPCA
+  year: 2024
+  id: hpca24
+  full_name: International Symposium on High-Performance Computer Architecture
+  link: https://hpca-conf.org/2024/
+  deadline: '2023-08-04 23:59:59'
+  abstract_deadline: '2023-07-28 23:59:59'
+  timezone: UTC-7
+  place: Edinburgh, Scotland
+  date: Mar 02-06, 2024
+  start: 2024-03-02
+  end: 2024-03-06
+  hindex: -1
+  sub: CA
+  note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://www.hpca-conf.org/2024/submit/papers.php'>here</a>.
+
 - title: HiPEAC
   year: 2024
   id: hipeac24
@@ -287,70 +335,6 @@
   sub: CA
   note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://www.iccd-conf.com/Call_for_papers.html'>here</a>.
 
-- title: PACT
-  year: 2023
-  id: pact23
-  full_name: International Conference on Parallel Architectures and Compilation Techniques
-  link: https://pact2023.github.io/
-  deadline: '2023-04-15 23:59:59'
-  abstract_deadline: '2023-03-25 23:59:59'
-  timezone: UTC-12
-  place: Vienna, Austria
-  date: Oct 21-25, 2023
-  start: 2023-10-21
-  end: 2023-10-25
-  hindex: -1
-  sub: CA
-  note: Mandatory abstract deadline on March 25, 2023. More info <a href='https://pact2023.github.io/submit/'>here</a>.
-
-- title: HPCA
-  year: 2024
-  id: hpca24
-  full_name: International Symposium on High-Performance Computer Architecture
-  link: https://hpca-conf.org/2024/
-  deadline: '2023-08-04 23:59:59'
-  abstract_deadline: '2023-07-28 23:59:59'
-  timezone: UTC-7
-  place: Edinburgh, Scotland
-  date: Mar 02-06, 2024
-  start: 2024-03-02
-  end: 2024-03-06
-  hindex: -1
-  sub: CA
-  note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://www.hpca-conf.org/2024/submit/papers.php'>here</a>.
-
-- title: ASPLOS
-  year: 2024
-  id: asplos24
-  full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
-  link: https://www.asplos-conference.org/asplos2024/
-  deadline: '2023-11-30 14:59:59'
-  abstract_deadline: '2023-11-24 14:59:59'
-  timezone: UTC-5
-  place: San Diego, USA
-  date: Apr 27-May 01, 2024
-  start: 2024-04-27
-  end: 2024-05-01
-  hindex: -1
-  sub: CA
-  note: This is the Fall cycle. Mandatory paper-registration deadline on November 24, 2023. More info <a href='https://www.asplos-conference.org/asplos2024/cfp/'>here</a>.
-
-- title: ISCA
-  year: 2024
-  id: isca24
-  full_name: International Symposium on Computer Architecture
-  link: https://iscaconf.org/isca2024/
-  deadline: '2023-11-21 23:59:59'
-  abstract_deadline: '2023-11-14 23:59:59'
-  timezone: UTC-12
-  place: Buenos Aires, Argentina
-  date: Jun 29-Jul 03, 2024
-  start: 2024-06-29
-  end: 2024-07-03
-  hindex: -1
-  sub: CA
-  note: Mandatory abstract deadline on November 14, 2023. More info <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>here</a>.
-
 - title: MICRO
   year: 2023
   id: micro23
@@ -366,3 +350,19 @@
   hindex: -1
   sub: CA
   note: Mandatory abstract deadline on April 21, 2023. More info <a href='https://microarch.org/micro56/submit/papers.php'>here</a>.
+
+- title: PACT
+  year: 2023
+  id: pact23
+  full_name: International Conference on Parallel Architectures and Compilation Techniques
+  link: https://pact2023.github.io/
+  deadline: '2023-04-15 23:59:59'
+  abstract_deadline: '2023-03-25 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: Oct 21-25, 2023
+  start: 2023-10-21
+  end: 2023-10-25
+  hindex: -1
+  sub: CA
+  note: Mandatory abstract deadline on March 25, 2023. More info <a href='https://pact2023.github.io/submit/'>here</a>.
