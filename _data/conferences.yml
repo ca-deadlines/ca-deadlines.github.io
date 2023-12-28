@@ -1,4 +1,19 @@
 #----------------MIX----------------#
+- title: IISWC
+  year: 2023
+  id: iiswc23
+  full_name: IEEE International Symposium on Workload Characterization
+  link: https://iiswc.org/
+  deadline: '2023-06-16 23:59:59'
+  timezone: UTC-12
+  place: Ghent, Belgium
+  date: Oct 01-03, 2024
+  start: 2024-10-01
+  end: 2024-10-03
+  hindex: -1
+  sub: MIX
+  note: More info <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>here</a>.
+
 - title: ISPASS
   year: 2024
   id: ispass24
