@@ -62,6 +62,22 @@
   note: Mandatory abstract deadline on September 28, 2023. More info <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html'>here</a>.
 
 #----------------NoC----------------#
+- title: HotI
+  year: 2023
+  id: hoti23
+  full_name: International Symposium on High-Performance Interconnects
+  link: https://hoti.org/
+  deadline: '2023-05-19 23:59:59'
+  abstract_deadline: '2023-05-19 23:59:59'
+  timezone: UTC-12
+  place: Virtual
+  date: Aug 23-25, 2023
+  start: 2023-08-23
+  end: 2023-08-25
+  hindex: -1
+  sub: NoC
+  note: Mandatory abstract deadline on May 19, 2023. More info <a href='https://hoti.org/call-for-papers/'>here</a>.
+
 - title: NoCArc
   year: 2023
   id: nocarc23
