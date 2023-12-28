@@ -33,20 +33,20 @@
 
 #----------------EDA----------------#
 - title: ESWEEK
-  year: 2023
-  id: esweek23
+  year: 2024
+  id: esweek24
   full_name: Embedded Systems Week
   link: https://esweek.org/
-  deadline: '2023-03-23 23:59:59'
-  abstract_deadline: '2023-03-16 23:59:59'
+  deadline: TBA
+  abstract_deadline: TBA
   timezone: UTC-12
-  place: Hamburg, Germany
-  date: Sep 17-22, 2023
-  start: 2023-09-17
-  end: 2023-09-22
+  place: Raleigh, USA
+  date: Sep 29-Oct 04, 2024
+  start: 2023-09-29
+  end: 2023-10-04
   hindex: -1
   sub: EDA
-  note: Mandatory abstract deadline on March 16, 2023. More info <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>here</a>.
+  note: More info <a href='https://esweek.org/author-information/'>here</a>.
 
 - title: VLSID
   year: 2024
