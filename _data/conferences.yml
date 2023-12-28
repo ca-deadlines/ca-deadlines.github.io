@@ -1,3 +1,20 @@
+#----------------NoC----------------#
+- title: NOCS
+  year: 2023
+  id: nocs23
+  full_name: International Symposium on Networks‑on‑Chip
+  link: https://nocs2023.github.io/
+  deadline: '2023-05-08 23:59:59'
+  abstract_deadline: '2023-05-08 23:59:59'
+  timezone: UTC-12
+  place: Hamburg, Germany
+  date: Sep 21-22, 2023
+  start: 2023-09-21
+  end: 2023-09-22
+  hindex: -1
+  sub: NoC
+  note: Mandatory abstract deadline on May 08, 2023. More info <a href='https://nocs2023.github.io/cfp.html'>here</a>.
+
 #----------------EDA----------------#
 - title: ESWEEK
   year: 2023
