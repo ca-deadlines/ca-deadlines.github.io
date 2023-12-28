@@ -1,4 +1,20 @@
-#----------------HPC----------------#
+#----------------EDA----------------#
+- title: DATE
+  year: 2024
+  id: date24
+  full_name: Design, Automation and Test in Europe Conference
+  link: https://www.date-conference.com/
+  deadline: '2023-09-17 23:59:59'
+  abstract_deadline: '2023-09-10 23:59:59'
+  timezone: UTC-12
+  place: Valencia, Spain
+  date: Mar 25-27, 2024
+  start: 2024-03-25
+  end: 2024-03-27
+  hindex: -1
+  sub: EDA
+  note: Mandatory abstract deadline on September 10, 2023. More info <a href='https://www.date-conference.com/call-for-papers'>here</a>.
+
 - title: DAC
   year: 2024
   id: dac24
