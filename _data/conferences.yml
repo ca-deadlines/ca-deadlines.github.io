@@ -1,4 +1,20 @@
 #----------------EDA----------------#
+- title: ASP-DAC
+  year: 2024
+  id: aspdac24
+  full_name: Asia and South Pacific Design Automation Conference
+  link: https://aspdac.gabia.io/
+  deadline: '2023-08-04 16:59:59'
+  abstract_deadline: '2023-07-28 16:59:59'
+  timezone: UTC-12
+  place: Incheon, South Korea
+  date: Jan 22-25, 2024
+  start: 2024-01-22
+  end: 2024-01-25
+  hindex: -1
+  sub: EDA
+  note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://aspdac.gabia.io/cfp/index.html'>here</a>.
+
 - title: DATE
   year: 2024
   id: date24
