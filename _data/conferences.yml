@@ -161,6 +161,22 @@
   note: Mandatory abstract deadline on January 11, 2024. More info <a href='https://ics2024.github.io/cfp.html'>here</a>.
 
 #----------------CA-----------------#
+- title: ICCD
+  year: 2023
+  id: iccd23
+  full_name: International Conference on Computer Design
+  link: https://www.iccd-conf.com/
+  deadline: '2023-06-27 23:59:59'
+  abstract_deadline: '2023-06-25 23:59:59'
+  timezone: UTC-12
+  place: Washington DC, USA
+  date: Nov 6-8, 2023
+  start: 2023-11-06
+  end: 2023-11-08
+  hindex: -1
+  sub: CA
+  note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://www.iccd-conf.com/Call_for_papers.html'>here</a>.
+
 - title: PACT
   year: 2023
   id: pact23
