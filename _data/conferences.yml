@@ -207,6 +207,22 @@
   note: Mandatory abstract deadline on November 13, 2023. More info <a href='https://www.dac.com/Conference/2024-Call-for-Contributions'>here</a>.
 
 #----------------HPC----------------#
+- title: SBAC-PAD
+  year: 2023
+  id: sbacpad23
+  full_name: International Symposium on Computer Architecture and High Performance Computing
+  link: https://cradrs.github.io/sbacpad2023/
+  deadline: '2023-06-25 23:59:59'
+  abstract_deadline: '2023-06-25 23:59:59'
+  timezone: UTC-12
+  place: Porto Alegre, Brazil
+  date: Oct 17-20, 2023
+  start: 2023-10-17
+  end: 2023-10-20
+  hindex: -1
+  sub: HPC
+  note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://cradrs.github.io/sbacpad2023/cfp/'>here</a>.
+
 - title: SC
   year: 2024
   id: sc24
