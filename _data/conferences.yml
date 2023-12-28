@@ -1,4 +1,20 @@
 #----------------MIX----------------#
+- title: ISPASS
+  year: 2024
+  id: ispass24
+  full_name: International Symposium on Performance Analysis of Systems and Software
+  link: https://ispass.org/
+  deadline: '2023-12-18 23:59:59'
+  abstract_deadline: '2023-12-08 23:59:59'
+  timezone: UTC-12
+  place: Indianapolis, USA
+  date: May 05-07, 2024
+  start: 2024-05-05
+  end: 2024-05-07
+  hindex: -1
+  sub: MIX
+  note: Mandatory abstract deadline on December 08, 2023. More info <a href='https://ispass.org/ispass2024/'>here</a>.
+
 - title: MLSys
   year: 2024
   id: mlsys24
