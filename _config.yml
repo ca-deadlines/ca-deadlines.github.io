@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: CA Conference Deadlines
+description: Countdowns to top CA/HPC/EDA/NoC conference deadlines
+author: Abhijit Das
 
-domain: "aideadlin.es"
+domain: "ca-deadlines.github.io"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: comparch
+github_username: ca-deadlines
+github_repo: ca-deadlines.github.io
 
 markdown: kramdown
 ga_id:
