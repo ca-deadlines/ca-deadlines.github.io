@@ -45,6 +45,7 @@
   end: 2024-05-07
   hindex: -1
   sub: MIX
+  rank: B1
   note: Mandatory abstract deadline on December 08, 2023. More info <a href='https://ispass.org/ispass2024/'>here</a>.
 
 - title: IISWC
@@ -77,6 +78,7 @@
   end: 2023-10-28
   hindex: -1
   sub: NoC
+  rank: B4
   note: Mandatory abstract deadline on July 31, 2023. More info <a href='https://www.nocarc.org/submission'>here</a>.
 
 - title: NOCS
@@ -93,6 +95,7 @@
   end: 2023-09-22
   hindex: -1
   sub: NoC
+  rank: B1
   note: Mandatory abstract deadline on May 08, 2023. More info <a href='https://nocs2023.github.io/cfp.html'>here</a>.
 
 - title: HotI
@@ -109,6 +112,7 @@
   end: 2023-08-25
   hindex: -1
   sub: NoC
+  rank: B1
   note: Mandatory abstract deadline on May 19, 2023. More info <a href='https://hoti.org/call-for-papers/'>here</a>.
 
 #----------------EDA----------------#
@@ -142,6 +146,7 @@
   end: 2024-06-27
   hindex: -1
   sub: EDA
+  rank: A1
   note: Mandatory abstract deadline on November 13, 2023. More info <a href='https://www.dac.com/Conference/2024-Call-for-Contributions'>here</a>.
 
 - title: DATE
@@ -158,6 +163,7 @@
   end: 2024-03-27
   hindex: -1
   sub: EDA
+  rank: A1
   note: Mandatory abstract deadline on September 10, 2023. More info <a href='https://www.date-conference.com/call-for-papers'>here</a>.
 
 - title: ASP-DAC
@@ -174,6 +180,7 @@
   end: 2024-01-25
   hindex: -1
   sub: EDA
+  rank: A2
   note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://aspdac.gabia.io/cfp/index.html'>here</a>.
 
 - title: VLSID
@@ -189,6 +196,7 @@
   end: 2023-01-10
   hindex: -1
   sub: EDA
+  rank: A2
   note: More info <a href='https://vlsid.org/call-for-papers/'>here</a>.
 
 - title: ICCAD
@@ -205,6 +213,7 @@
   end: 2023-11-02
   hindex: -1
   sub: EDA
+  rank: A1
   note: Mandatory abstract deadline on May 15, 2023. More info <a href='https://2023.iccad.com/scientific-papers'>here</a>.
 
 #----------------HPC----------------#
@@ -222,6 +231,7 @@
   end: 2024-11-22
   hindex: -1
   sub: HPC
+  rank: A1
   note: Mandatory abstract deadline on March 26, 2024. More info <a href='https://sc24.supercomputing.org/program/papers/'>here</a>.
 
 - title: ICS
@@ -238,6 +248,7 @@
   end: 2024-06-07
   hindex: -1
   sub: HPC
+  rank: A2
   note: Mandatory abstract deadline on January 11, 2024. More info <a href='https://ics2024.github.io/cfp.html'>here</a>.
 
 - title: HiPC
@@ -254,6 +265,7 @@
   end: 2023-12-21
   hindex: -1
   sub: HPC
+  rank: B1
   note: Mandatory abstract deadline on July 10, 2023. More info <a href='https://hipc.org/call-for-papers/'>here</a>.
 
 #----------------CA-----------------#
@@ -271,6 +283,7 @@
   end: 2024-07-03
   hindex: -1
   sub: CA
+  rank: A1
   note: Mandatory abstract deadline on November 14, 2023. More info <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>here</a>.
 
 - title: ASPLOS
@@ -287,6 +300,7 @@
   end: 2024-05-01
   hindex: -1
   sub: CA
+  rank: A1
   note: This is the Fall cycle. Mandatory paper-registration deadline on November 24, 2023. More info <a href='https://www.asplos-conference.org/asplos2024/cfp/'>here</a>.
 
 - title: HPCA
@@ -303,6 +317,7 @@
   end: 2024-03-06
   hindex: -1
   sub: CA
+  rank: A1
   note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://www.hpca-conf.org/2024/submit/papers.php'>here</a>.
 
 - title: HiPEAC
@@ -318,6 +333,7 @@
   end: 2024-01-19
   hindex: -1
   sub: CA
+  rank: B2
   note: More info <a href='https://www.hipeac.net/2024/munich/#/call-for-papers/'>here</a>.
 
 - title: ICCD
@@ -334,6 +350,7 @@
   end: 2023-11-08
   hindex: -1
   sub: CA
+  rank: A2
   note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://www.iccd-conf.com/Call_for_papers.html'>here</a>.
 
 - title: MICRO
@@ -350,6 +367,7 @@
   end: 2023-11-01
   hindex: -1
   sub: CA
+  rank: A1
   note: Mandatory abstract deadline on April 21, 2023. More info <a href='https://microarch.org/micro56/submit/papers.php'>here</a>.
 
 - title: PACT
@@ -366,4 +384,5 @@
   end: 2023-10-25
   hindex: -1
   sub: CA
+  rank: A2
   note: Mandatory abstract deadline on March 25, 2023. More info <a href='https://pact2023.github.io/submit/'>here</a>.
