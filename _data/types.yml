@@ -11,3 +11,6 @@
 - name: Network-on-Chip
   sub: NoC
   color: "#147df5"
+- name: Mixture of CA/HPC/EDA/NoC and More
+  sub: MIX
+  color: "#0aff99"
