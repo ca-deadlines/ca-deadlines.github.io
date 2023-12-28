@@ -13,7 +13,7 @@
   end: 2024-05-31
   hindex: -1
   sub: MIX
-  rank: A, A1
+  rank: A1
   note: Mandatory abstract deadline on September 28, 2023. More info <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html'>here</a>.
 
 - title: MLSys
@@ -28,7 +28,7 @@
   start: 2024-05-13
   end: 2024-05-16
   hindex: -1
-  sub: MIX, CA
+  sub: MIX
   note: More info <a href='https://mlsys.org/Conferences/2024/CallForPapers'>here</a>.
 
 - title: ISPASS
@@ -245,8 +245,8 @@
   id: hipc23
   full_name: International Conference on High Performance Computing, Data, and Analytics
   link: https://hipc.org/
-  deadline: '2023-06-25 23:59:59'
-  abstract_deadline: '2023-06-25 23:59:59'
+  deadline: '2023-07-17 23:59:59'
+  abstract_deadline: '2023-07-10 23:59:59'
   timezone: UTC-12
   place: Goa, India
   date: Dec 18-21, 2023
@@ -254,7 +254,7 @@
   end: 2023-12-21
   hindex: -1
   sub: HPC
-  note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://hipc.org/call-for-papers/'>here</a>.
+  note: Mandatory abstract deadline on July 10, 2023. More info <a href='https://hipc.org/call-for-papers/'>here</a>.
 
 #----------------CA-----------------#
 - title: ISCA
