@@ -12,7 +12,8 @@
   start: 2024-05-27
   end: 2024-05-31
   hindex: -1
-  sub: MIX
+  sub: [MIX]
+  rank: [A, A1]
   note: Mandatory abstract deadline on September 28, 2023. More info <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html'>here</a>.
 
 - title: MLSys
@@ -27,7 +28,7 @@
   start: 2024-05-13
   end: 2024-05-16
   hindex: -1
-  sub: MIX
+  sub: [MIX, CA]
   note: More info <a href='https://mlsys.org/Conferences/2024/CallForPapers'>here</a>.
 
 - title: ISPASS
