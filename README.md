@@ -1,8 +1,6 @@
 ## CA Deadlines
 
-Countdown timers to keep track of popular CA/HPC/EDA/NoC conference deadlines.
-
-To keep things minimal, only top-tier conferences as per [conferenceranks.com][1] and personal preferences are listed.
+Countdown timers to keep track of popular CA/HPC/EDA/NoC conference deadlines. To keep things minimal, only top-tier conferences as per [conferenceranks.com][1] and personal preferences are listed.
 
 This project is a fork of [ai-deadlines][2]. It is maintained by [Abhijit Das][3]
 
@@ -15,13 +13,13 @@ To add or update a deadline:
 - Update `_data/conferences.yml`
 - Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
     + See available timezone strings [here](https://momentjs.com/timezone/).
-- Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
-- Optionally add `hindex` (refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
+- Other attributes like `note`, `abstract_deadline`, etc. are optional.
+    + `hindex` refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
 - Example:
     ```yaml
     - title: BestConf
-      year: 2022
-      id: bestconf22  # title as lower case + last two digits of year
+      year: 2024
+      id: bestconf24  # title as lower case + last two digits of year
       full_name: Best Conference for Anything  # full conference name
       link: link-to-website.com
       deadline: YYYY-MM-DD HH:SS
