@@ -1,4 +1,21 @@
-# HPC
+#----------------HPC----------------#
+- title: DAC
+  year: 2024
+  id: dac24
+  full_name: Design Automation Conference
+  link: https://www.dac.com/
+  deadline: '2023-11-20 16:59:59'
+  abstract_deadline: '2023-11-13 16:59:59'
+  timezone: UTC-8
+  place: San Francisco, USA
+  date: Jun 23-27, 2024
+  start: 2024-06-23
+  end: 2024-06-27
+  hindex: -1
+  sub: EDA
+  note: Mandatory abstract deadline on November 13, 2023. More info <a href='https://www.dac.com/Conference/2024-Call-for-Contributions'>here</a>.
+
+#----------------HPC----------------#
 - title: SC
   year: 2024
   id: sc24
@@ -31,8 +48,7 @@
   sub: HPC
   note: Mandatory abstract deadline on January 11, 2024. More info <a href='https://ics2024.github.io/cfp.html'>here</a>.
 
-# CA
-
+#----------------CA-----------------#
 - title: PACT
   year: 2023
   id: pact23
