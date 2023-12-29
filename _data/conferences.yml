@@ -16,6 +16,22 @@
   rank: A1
   note: Mandatory abstract deadline on September 28, 2023. More info <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html'>here</a>.
 
+- title: ISCAS
+  year: 2024
+  id: iscas24
+  full_name: International Symposium on Circuits and Systems
+  link: https://2024.ieee-iscas.org/
+  deadline: '2023-11-07 23:59:59'
+  timezone: UTC-7
+  place: Resorts World Convention Centre, Singapore
+  date: May 19-22, 2024
+  start: 2024-05-19
+  end: 2024-05-22
+  hindex: -1
+  sub: MIX
+  rank: A2
+  note: More info <a href='https://2024.ieee-iscas.org/authors/author-instructions.php'>here</a>.
+
 - title: MLSys
   year: 2024
   id: mlsys24
@@ -45,7 +61,7 @@
   end: 2024-05-07
   hindex: -1
   sub: MIX
-  rank: B1
+  rank: A3
   note: Mandatory abstract deadline on December 08, 2023. More info <a href='https://ispass.org/ispass2024/'>here</a>.
 
 - title: IISWC
@@ -61,6 +77,7 @@
   end: 2023-10-03
   hindex: -1
   sub: MIX
+  rank: A3
   note: More info <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>here</a>.
 
 #----------------NoC----------------#
@@ -78,7 +95,6 @@
   end: 2023-10-28
   hindex: -1
   sub: NoC
-  rank: B4
   note: Mandatory abstract deadline on July 31, 2023. More info <a href='https://www.nocarc.org/submission'>here</a>.
 
 - title: NOCS
@@ -95,7 +111,7 @@
   end: 2023-09-22
   hindex: -1
   sub: NoC
-  rank: B1
+  rank: A3
   note: Mandatory abstract deadline on May 08, 2023. More info <a href='https://nocs2023.github.io/cfp.html'>here</a>.
 
 - title: HotI
@@ -112,7 +128,6 @@
   end: 2023-08-25
   hindex: -1
   sub: NoC
-  rank: B1
   note: Mandatory abstract deadline on May 19, 2023. More info <a href='https://hoti.org/call-for-papers/'>here</a>.
 
 #----------------EDA----------------#
@@ -196,7 +211,7 @@
   end: 2023-01-10
   hindex: -1
   sub: EDA
-  rank: A2
+  rank: A4
   note: More info <a href='https://vlsid.org/call-for-papers/'>here</a>.
 
 - title: ICCAD
@@ -213,7 +228,7 @@
   end: 2023-11-02
   hindex: -1
   sub: EDA
-  rank: A1
+  rank: A2
   note: Mandatory abstract deadline on May 15, 2023. More info <a href='https://2023.iccad.com/scientific-papers'>here</a>.
 
 #----------------HPC----------------#
@@ -265,7 +280,7 @@
   end: 2023-12-21
   hindex: -1
   sub: HPC
-  rank: B1
+  rank: A3
   note: Mandatory abstract deadline on July 10, 2023. More info <a href='https://hipc.org/call-for-papers/'>here</a>.
 
 #----------------CA-----------------#
@@ -333,7 +348,6 @@
   end: 2024-01-19
   hindex: -1
   sub: CA
-  rank: B2
   note: More info <a href='https://www.hipeac.net/2024/munich/#/call-for-papers/'>here</a>.
 
 - title: ICCD
@@ -350,7 +364,7 @@
   end: 2023-11-08
   hindex: -1
   sub: CA
-  rank: A2
+  rank: A3
   note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://www.iccd-conf.com/Call_for_papers.html'>here</a>.
 
 - title: MICRO

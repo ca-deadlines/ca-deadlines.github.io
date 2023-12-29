@@ -1,6 +1,6 @@
 ## CA Deadlines
 
-Countdown timers to keep track of popular CA/HPC/EDA/NoC conference deadlines. To keep things minimal, only top-tier conferences based on [conferenceranks.com][1] and personal preferences are listed.
+Countdown timers to keep track of popular CA/HPC/EDA/NoC conference deadlines. To keep things minimal, only top-tier conferences based on [Qualis (2022)][1] ranking and personal preferences are listed.
 
 This project is a fork of [ai-deadlines][2]. It is maintained by [Abhijit Das][3].
 
@@ -41,7 +41,7 @@ To add or update a deadline:
 
 This project is licensed under [MIT][4]. It uses [IcoMoon Icons](https://icomoon.io/#icons-icomoon): [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-[1]: http://www.conferenceranks.com/
+[1]: https://ppgcc.propesp.ufpa.br/EDITAIS%20ANTERIORES/2022/DOUTORADO/conferencias-2022.pdf
 [2]: https://github.com/paperswithcode/ai-deadlines
 [3]: https://abhijitcse.github.io/
 [4]: https://abhshkdz.mit-license.org/
