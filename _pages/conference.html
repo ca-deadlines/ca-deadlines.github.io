@@ -28,10 +28,12 @@ permalink:  /conference/
       </div>
       <div id="page-content">
         <div id="conf-key-facts" class="row">
-          <div class="col-12">
-            <img src="{{site.baseurl}}/static/img/rank.svg" class="badge-link" />
-            <span id="conf-rank"></span>.
-          </div>
+          {% if conf.rank %}
+            <div class="col-12">
+              <img src="{{site.baseurl}}/static/img/rank.svg" class="badge-link" />
+              <span id="conf-rank"></span>.
+            </div>
+          {% endif %}
           <div class="col-12">
             <img src="{{site.baseurl}}/static/img/084-calendar.svg" class="badge-link" />
             <span id="conf-date"></span>.
