@@ -105,16 +105,15 @@
                   </span>
                 </div>
                 {% if conf.rank %}
-                <div class="meta">
-                  Rank: {{conf.rank}}
-                </div>
+                  <div class="meta">
+                    <span class="conf-rank">Rank: {{conf.date}}</span>
+                  </div>
                 {% endif %}
                 {% if conf.note %}
                   <div class="note">
                       <b>Note: </b>{{conf.note}}
                   </div>
                 {% endif %}
-
               </div>
               <div class="col-12 col-sm-6">
                 <div class="deadline">
