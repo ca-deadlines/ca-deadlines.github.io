@@ -28,12 +28,10 @@ permalink:  /conference/
       </div>
       <div id="page-content">
         <div id="conf-key-facts" class="row">
-          {% if conf.rank %}
-            <div class="col-12">
-              <img src="{{site.baseurl}}/static/img/rank.svg" class="badge-link" />
-              <span id="conf-rank"></span>.
-            </div>
-          {% endif %}
+          <div id="conf-rank-div" class="col-12">
+            <img src="{{site.baseurl}}/static/img/rank.svg" class="badge-link" />
+            <span id="conf-rank"></span>.
+          </div>
           <div class="col-12">
             <img src="{{site.baseurl}}/static/img/084-calendar.svg" class="badge-link" />
             <span id="conf-date"></span>.
@@ -69,22 +67,22 @@ permalink:  /conference/
           <div class="meta col-sm-12 col-md-6">
             <span class="deadline-time"></span>
           </div>
-              <div class="meta col-sm-12 col-md-6">
-                Deadline in your local <span class="local-timezone">America/New_York</span> timezone:
-              </div>
-              <div class="local-timezone-hide meta col-sm-12 col-md-6">
-                <span class="deadline-local-time"></span>
-              </div>
+          <div class="meta col-sm-12 col-md-6">
+            Deadline in your local <span class="local-timezone">America/New_York</span> timezone:
           </div>
+          <div class="local-timezone-hide meta col-sm-12 col-md-6">
+            <span class="deadline-local-time"></span>
+          </div>
+        </div>
         <div id="conf-deadline-timer" class="row">
           <div id="conf-timer" class="col-12">
           </div>
         </div>
       </div>
-        <hr>
-        <footer>
-          {% include footer.html %}
-        </footer>
+      <hr>
+      <footer>
+        {% include footer.html %}
+      </footer>
     </div>
     <script type="text/javascript" charset="utf-8">
     $(function() {
@@ -118,6 +116,11 @@ permalink:  /conference/
                 $('#conf-subs').append(sub_element);
               }
               // other
+              {% if conf.rank %}
+                $('#conf-rank').text("{{conf.rank}}");
+              {% else %}
+                $('#conf-rank-div').hide();
+              {% endif %}
               $('#conf-date').text("{{conf.date}}");
               $('#conf-place').text("{{conf.place}}");
               $('#conf-place').attr('href', "https://maps.google.com/?q={{conf.place}}")
