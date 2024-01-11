@@ -13,7 +13,7 @@ To add or update a deadline:
 - Update `_data/conferences.yml`
 - Make sure it has `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, and `sub` attributes.
     + See available timezone strings [here](https://momentjs.com/timezone/).
-- Other attributes like `note`, `abstract_deadline`, etc. are optional.
+- Other attributes like `abstract_deadline`, `rank`, `note`, etc. are optional.
     + `hindex` refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng).
 - Example:
     ```yaml
@@ -33,6 +33,7 @@ To add or update a deadline:
       pwclink: link-to-papers-with-code.com
       hindex: 100.0
       sub: CA
+      rank: A1
       note: Important
     ```
 - Send a pull request.
