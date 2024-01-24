@@ -385,18 +385,18 @@
   note: Mandatory abstract deadline on April 21, 2023. More info <a href='https://microarch.org/micro56/submit/papers.php'>here</a>.
 
 - title: PACT
-  year: 2023
-  id: pact23
+  year: 2024
+  id: pact24
   full_name: International Conference on Parallel Architectures and Compilation Techniques
-  link: https://pact2023.github.io/
-  deadline: '2023-04-15 23:59:59'
-  abstract_deadline: '2023-03-25 23:59:59'
+  link: https://pact2024.github.io/
+  deadline: '2023-03-27 23:59:59'
+  abstract_deadline: '2023-03-22 23:59:59'
   timezone: UTC-12
-  place: Vienna, Austria
-  date: Oct 21-25, 2023
-  start: 2023-10-21
-  end: 2023-10-25
+  place: California, USA
+  date: Oct 13-16, 2024
+  start: 2024-10-13
+  end: 2024-10-16
   hindex: -1
   sub: CA
   rank: A2
-  note: Mandatory abstract deadline on March 25, 2023. More info <a href='https://pact2023.github.io/submit/'>here</a>.
+  note: Mandatory abstract deadline on March 22, 2024. More info <a href='https://pact2024.github.io/submit/'>here</a>.
