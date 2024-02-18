@@ -368,21 +368,21 @@
   note: Mandatory abstract deadline on June 25, 2023. More info <a href='https://www.iccd-conf.com/Call_for_papers.html'>here</a>.
 
 - title: MICRO
-  year: 2023
-  id: micro23
+  year: 2024
+  id: micro24
   full_name: International Symposium on Microarchitecture
-  link: https://microarch.org/micro56/
-  deadline: '2023-04-28 23:59:59'
-  abstract_deadline: '2023-04-21 23:59:59'
-  timezone: UTC-7
-  place: Toronto, Canada
-  date: Oct 28-Nov 01, 2023
-  start: 2023-10-28
-  end: 2023-11-01
+  link: https://microarch.org/micro57/
+  deadline: '2024-04-18 23:59:59'
+  abstract_deadline: '2024-04-11 23:59:59'
+  timezone: UTC-6
+  place: Texas, USA
+  date: Nov 02-06, 2024
+  start: 2024-11-02
+  end: 2024-11-06
   hindex: -1
   sub: CA
   rank: A1
-  note: Mandatory abstract deadline on April 21, 2023. More info <a href='https://microarch.org/micro56/submit/papers.php'>here</a>.
+  note: Mandatory abstract deadline on April 11, 2024. More info <a href='https://microarch.org/micro57/submit/papers.php'>here</a>.
 
 - title: PACT
   year: 2024
