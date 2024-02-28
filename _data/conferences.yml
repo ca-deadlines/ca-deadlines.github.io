@@ -336,19 +336,19 @@
   note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://www.hpca-conf.org/2024/submit/papers.php'>here</a>.
 
 - title: HiPEAC
-  year: 2024
-  id: hipeac24
+  year: 2025
+  id: hipeac25
   full_name: International Conference on High Performance Embedded Architectures and Compilers
-  link: https://www.hipeac.net/2024/munich/#/
-  deadline: '2023-05-31 23:59:59'
+  link: https://www.hipeac.net/2025/barcelona/#/
+  deadline: '2024-05-31 23:59:59'
   timezone: UTC-12
-  place: Munich, Germany
-  date: Jan 17-19, 2024
-  start: 2024-01-17
-  end: 2024-01-19
+  place: Barcelona, Spain
+  date: TBA
+  start: TBA
+  end: TBA
   hindex: -1
   sub: CA
-  note: More info <a href='https://www.hipeac.net/2024/munich/#/call-for-papers/'>here</a>.
+  note: More info <a href='https://www.hipeac.net/2025/barcelona/#/call-for-papers/'>here</a>.
 
 - title: ICCD
   year: 2023
