@@ -223,9 +223,9 @@
   abstract_deadline: '2024-04-28 23:59:59'
   timezone: UTC-12
   place: New Jersey, USA
-  date: TBA
-  start: TBA
-  end: TBA
+  date: Oct 27-31, 2024
+  start: 2024-10-27
+  end: 2024-10-31
   hindex: -1
   sub: EDA
   rank: A2
@@ -267,21 +267,21 @@
   note: Mandatory abstract deadline on January 11, 2024. More info <a href='https://ics2024.github.io/cfp.html'>here</a>.
 
 - title: HiPC
-  year: 2023
-  id: hipc23
+  year: 2024
+  id: hipc24
   full_name: International Conference on High Performance Computing, Data, and Analytics
   link: https://hipc.org/
-  deadline: '2023-07-17 23:59:59'
-  abstract_deadline: '2023-07-10 23:59:59'
+  deadline: '2024-06-26 23:59:59'
+  abstract_deadline: '2024-06-19 23:59:59'
   timezone: UTC-12
-  place: Goa, India
-  date: Dec 18-21, 2023
-  start: 2023-12-18
-  end: 2023-12-21
+  place: Bengaluru, India
+  date: Dec 18-21, 2024
+  start: 2024-12-18
+  end: 2024-12-21
   hindex: -1
   sub: HPC
   rank: A3
-  note: Mandatory abstract deadline on July 10, 2023. More info <a href='https://hipc.org/call-for-papers/'>here</a>.
+  note: Mandatory abstract deadline on June 19, 2024. More info <a href='https://hipc.org/papers/'>here</a>.
 
 #----------------CA-----------------#
 - title: ISCA
