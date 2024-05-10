@@ -355,8 +355,8 @@
   id: iccd24
   full_name: International Conference on Computer Design
   link: https://www.iccd-conf.com/
-  deadline: '2024-05-12 23:59:59'
-  abstract_deadline: '2024-05-05 23:59:59'
+  deadline: '2024-05-20 23:59:59'
+  abstract_deadline: '2024-05-20 23:59:59'
   timezone: UTC-12
   place: Milan, Italy
   date: TBA
