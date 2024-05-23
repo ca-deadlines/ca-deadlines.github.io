@@ -319,21 +319,21 @@
   note: This is the Summer cycle. Mandatory paper-registration deadline on June 17, 2024. More info <a href='https://www.asplos-conference.org/asplos-2025-call-for-papers/'>here</a>.
 
 - title: HPCA
-  year: 2024
-  id: hpca24
+  year: 2025
+  id: hpca25
   full_name: International Symposium on High-Performance Computer Architecture
-  link: https://hpca-conf.org/2024/
-  deadline: '2023-08-04 23:59:59'
-  abstract_deadline: '2023-07-28 23:59:59'
-  timezone: UTC-7
-  place: Edinburgh, Scotland
-  date: Mar 02-06, 2024
-  start: 2024-03-02
-  end: 2024-03-06
+  link: https://hpca-conf.org/2025/
+  deadline: '2024-08-02 23:59:59'
+  abstract_deadline: '2024-07-26 23:59:59'
+  timezone: UTC-12
+  place: Las Vegas, USA
+  date: Mar 01-05, 2025
+  start: 2025-03-01
+  end: 2025-03-05
   hindex: -1
   sub: CA
   rank: A1
-  note: Mandatory abstract deadline on July 28, 2023. More info <a href='https://www.hpca-conf.org/2024/submit/papers.php'>here</a>.
+  note: Mandatory abstract deadline on July 26, 2024. More info <a href='https://hpca-conf.org/2025/call-for-papers/'>here</a>.
 
 - title: HiPEAC
   year: 2025
