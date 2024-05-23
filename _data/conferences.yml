@@ -115,20 +115,20 @@
   note: Mandatory abstract deadline on May 08, 2023. More info <a href='https://nocs2023.github.io/cfp.html'>here</a>.
 
 - title: HotI
-  year: 2023
-  id: hoti23
+  year: 2024
+  id: hoti24
   full_name: International Symposium on High-Performance Interconnects
   link: https://hoti.org/
-  deadline: '2023-05-19 23:59:59'
-  abstract_deadline: '2023-05-19 23:59:59'
+  deadline: '2024-05-27 23:59:59'
+  abstract_deadline: '2024-05-27 23:59:59'
   timezone: UTC-12
   place: Online
-  date: Aug 23-25, 2023
-  start: 2023-08-23
-  end: 2023-08-25
+  date: Aug 21-23, 2024
+  start: 2024-08-21
+  end: 2024-08-23
   hindex: -1
   sub: NoC
-  note: Mandatory abstract deadline on May 19, 2023. More info <a href='https://hoti.org/call-for-papers/'>here</a>.
+  note: Mandatory abstract deadline on May 27, 2024. More info <a href='https://hoti.org/2024/call-for-papers'>here</a>.
 
 #----------------EDA----------------#
 - title: ESWEEK
