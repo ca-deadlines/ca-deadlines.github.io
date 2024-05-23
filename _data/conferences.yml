@@ -65,20 +65,20 @@
   note: Mandatory abstract deadline on December 08, 2023. More info <a href='https://ispass.org/ispass2024/'>here</a>.
 
 - title: IISWC
-  year: 2023
-  id: iiswc23
+  year: 2024
+  id: iiswc24
   full_name: IEEE International Symposium on Workload Characterization
   link: https://iiswc.org/
-  deadline: '2023-06-16 23:59:59'
+  deadline: '2024-06-03 23:59:59'
   timezone: UTC-12
-  place: Ghent, Belgium
-  date: Oct 01-03, 2023
-  start: 2023-10-01
-  end: 2023-10-03
+  place: Vancouver, Canada
+  date: Sep 15-17, 2024
+  start: 2024-09-15
+  end: 2024-09-17
   hindex: -1
   sub: MIX
   rank: A3
-  note: More info <a href='https://iiswc.org/iiswc2023/#/call-for-papers/'>here</a>.
+  note: More info <a href='https://iiswc.org/iiswc2024/cfp.html'>here</a>.
 
 #----------------NoC----------------#
 - title: NoCArc
