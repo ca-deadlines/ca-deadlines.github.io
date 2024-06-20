@@ -306,8 +306,8 @@
   id: asplos25
   full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
   link: https://www.asplos-conference.org/asplos2025/
-  deadline: '2024-06-17 23:59:59'
-  abstract_deadline: '2024-06-24 23:59:59'
+  deadline: '2024-06-24 23:59:59'
+  abstract_deadline: '2024-06-17 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
   date: TBA
