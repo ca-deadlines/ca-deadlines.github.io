@@ -199,16 +199,16 @@
   note: Mandatory abstract deadline on July 05, 2024. More info <a href='https://www.aspdac.com/aspdac2025/cfp/'>here</a>.
 
 - title: VLSID
-  year: 2024
-  id: vlsid24
+  year: 2025
+  id: vlsid25
   full_name: International Conference on VLSI Design
   link: https://vlsid.org/
-  deadline: '2023-08-28 23:59:59'
+  deadline: '2024-07-30 23:59:59'
   timezone: UTC-12
-  place: Kolkata, India
-  date: Jan 06-10, 2024
-  start: 2023-01-06
-  end: 2023-01-10
+  place: Bengaluru, India
+  date: Jan 04-08, 2025
+  start: 2025-01-04
+  end: 2025-01-08
   hindex: -1
   sub: EDA
   rank: A4
