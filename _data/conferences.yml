@@ -1,20 +1,20 @@
 #----------------MIX----------------#
 - title: IPDPS
-  year: 2024
-  id: ipdps24
+  year: 2025
+  id: ipdps25
   full_name: International Parallel and Distributed Processing Symposium
   link: https://www.ipdps.org/
-  deadline: '2023-10-05 23:59:59'
-  abstract_deadline: '2023-09-28 23:59:59'
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: San Francisco, USA
-  date: May 27-31, 2024
-  start: 2024-05-27
-  end: 2024-05-31
+  place: Milan, Italy
+  date: June 03-07, 2025
+  start: 2025-06-03
+  end: 2025-06-07
   hindex: -1
   sub: MIX
   rank: A1
-  note: Mandatory abstract deadline on September 28, 2023. More info <a href='https://www.ipdps.org/ipdps2024/2024-call-for-papers.html'>here</a>.
+  note: Mandatory abstract deadline on October 03, 2024. More info <a href='https://www.ipdps.org/ipdps2025/IPDPS-2025-Flyer-Preliminary.pdf'>here</a>.
 
 - title: ISCAS
   year: 2024
