@@ -82,20 +82,20 @@
 
 #----------------NoC----------------#
 - title: NoCArc
-  year: 2023
-  id: nocarc23
+  year: 2024
+  id: nocarc24
   full_name: International Workshop on Networks‑on‑Chip Architectures
-  link: https://www.nocarc.org/nocarc-2023
-  deadline: '2023-07-31 23:59:59'
-  abstract_deadline: '2023-07-31 23:59:59'
+  link: https://www.nocarc.org/
+  deadline: '2024-07-29 23:59:59'
+  abstract_deadline: '2024-07-22 23:59:59'
   timezone: UTC-12
   place: Toronto, Canada
-  date: Oct 28, 2023
-  start: 2023-10-28
-  end: 2023-10-28
+  date: Nov 02, 2024
+  start: 2024-11-02
+  end: 2024-11-02
   hindex: -1
   sub: NoC
-  note: Mandatory abstract deadline on July 31, 2023. More info <a href='https://www.nocarc.org/submission'>here</a>.
+  note: Mandatory abstract deadline on July 22, 2024. More info <a href='https://www.nocarc.org/submission'>here</a>.
 
 - title: NOCS
   year: 2023
