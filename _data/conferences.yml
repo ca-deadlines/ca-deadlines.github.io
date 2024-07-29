@@ -17,20 +17,20 @@
   note: Mandatory abstract deadline on October 03, 2024. More info <a href='https://www.ipdps.org/ipdps2025/IPDPS-2025-Flyer-Preliminary.pdf'>here</a>.
 
 - title: ISCAS
-  year: 2024
-  id: iscas24
+  year: 2025
+  id: iscas25
   full_name: International Symposium on Circuits and Systems
-  link: https://2024.ieee-iscas.org/
-  deadline: '2023-11-07 23:59:59'
-  timezone: UTC-7
-  place: Resorts World Convention Centre, Singapore
-  date: May 19-22, 2024
-  start: 2024-05-19
-  end: 2024-05-22
+  link: https://2025.ieee-iscas.org/
+  deadline: '2024-10-14 23:59:59'
+  timezone: UTC-12
+  place: London, UK
+  date: May 25-28, 2025
+  start: 2024-05-25
+  end: 2024-05-28
   hindex: -1
   sub: MIX
   rank: A2
-  note: More info <a href='https://2024.ieee-iscas.org/authors/author-instructions.php'>here</a>.
+  note: More info <a href='https://2025.ieee-iscas.org/initial-author-instructions'>here</a>.
 
 - title: MLSys
   year: 2024
@@ -86,16 +86,16 @@
   id: nocarc24
   full_name: International Workshop on Networks‑on‑Chip Architectures
   link: https://www.nocarc.org/
-  deadline: '2024-07-29 23:59:59'
-  abstract_deadline: '2024-07-22 23:59:59'
+  deadline: '2024-08-12 23:59:59'
+  abstract_deadline: '2024-08-12 23:59:59'
   timezone: UTC-12
   place: Toronto, Canada
-  date: Nov 02, 2024
-  start: 2024-11-02
-  end: 2024-11-02
+  date: Nov 03, 2024
+  start: 2024-11-03
+  end: 2024-11-03
   hindex: -1
   sub: NoC
-  note: Mandatory abstract deadline on July 22, 2024. More info <a href='https://www.nocarc.org/submission'>here</a>.
+  note: More info <a href='https://www.nocarc.org/submission'>here</a>.
 
 - title: NOCS
   year: 2023
@@ -203,7 +203,7 @@
   id: vlsid25
   full_name: International Conference on VLSI Design
   link: https://vlsid.org/
-  deadline: '2024-07-30 23:59:59'
+  deadline: '2024-08-19 23:59:59'
   timezone: UTC-12
   place: Bengaluru, India
   date: Jan 04-08, 2025
@@ -306,17 +306,16 @@
   id: asplos25
   full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
   link: https://www.asplos-conference.org/asplos2025/
-  deadline: '2024-06-24 23:59:59'
-  abstract_deadline: '2024-06-17 23:59:59'
+  deadline: '2024-10-18 23:59:59'
   timezone: UTC-12
   place: Rotterdam, Netherlands
-  date: TBA
-  start: TBA
-  end: TBA
+  date: Mar 30-Apr 03, 2025
+  start: 2025-03-30
+  end: 2025-04-03
   hindex: -1
   sub: CA
   rank: A1
-  note: This is the Summer cycle. Mandatory paper-registration deadline on June 17, 2024. More info <a href='https://www.asplos-conference.org/asplos-2025-call-for-papers/'>here</a>.
+  note: This is the Fall cycle. More info <a href='https://www.asplos-conference.org/asplos2025/cfp/'>here</a>.
 
 - title: HPCA
   year: 2025
