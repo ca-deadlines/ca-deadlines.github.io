@@ -285,21 +285,21 @@
 
 #----------------CA-----------------#
 - title: ISCA
-  year: 2024
-  id: isca24
+  year: 2025
+  id: isca25
   full_name: International Symposium on Computer Architecture
-  link: https://iscaconf.org/isca2024/
-  deadline: '2023-11-21 23:59:59'
-  abstract_deadline: '2023-11-14 23:59:59'
+  link: https://iscaconf.org/isca2025/
+  deadline: '2024-11-22 23:59:59'
+  abstract_deadline: '2024-11-15 23:59:59'
   timezone: UTC-12
-  place: Buenos Aires, Argentina
-  date: Jun 29-Jul 03, 2024
-  start: 2024-06-29
-  end: 2024-07-03
+  place: Tokyo, Japan
+  date: Jun 21-Jun 25, 2025
+  start: 2025-06-21
+  end: 2025-06-25
   hindex: -1
   sub: CA
   rank: A1
-  note: Mandatory abstract deadline on November 14, 2023. More info <a href='https://www.iscaconf.org/isca2024/submit/papers.php'>here</a>.
+  note: Mandatory abstract deadline on November 15, 2024. More info <a href='https://www.iscaconf.org/isca2025/submit/papers.php'>here</a>.
 
 - title: ASPLOS
   year: 2025
