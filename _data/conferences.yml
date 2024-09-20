@@ -148,21 +148,21 @@
   note: Mandatory abstract deadline on March 24, 2024. More info <a href='https://esweek.org/author-information/'>here</a>.
 
 - title: DAC
-  year: 2024
-  id: dac24
+  year: 2025
+  id: dac25
   full_name: Design Automation Conference
   link: https://www.dac.com/
-  deadline: '2023-11-20 16:59:59'
-  abstract_deadline: '2023-11-13 16:59:59'
+  deadline: '2024-11-19 16:59:59'
+  abstract_deadline: '2024-11-12 16:59:59'
   timezone: UTC-8
   place: San Francisco, USA
-  date: Jun 23-27, 2024
-  start: 2024-06-23
-  end: 2024-06-27
+  date: Jun 22-25, 2025
+  start: 2025-06-22
+  end: 2025-06-25
   hindex: -1
   sub: EDA
   rank: A1
-  note: Mandatory abstract deadline on November 13, 2023. More info <a href='https://www.dac.com/Conference/2024-Call-for-Contributions'>here</a>.
+  note: Mandatory abstract deadline on November 12, 2024. More info <a href='https://www.dac.com/Conference/2025-Call-for-Contributions'>here</a>.
 
 - title: DATE
   year: 2025
