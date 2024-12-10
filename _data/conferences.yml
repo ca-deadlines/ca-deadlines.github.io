@@ -33,36 +33,36 @@
   note: More info <a href='https://2025.ieee-iscas.org/initial-author-instructions'>here</a>.
 
 - title: MLSys
-  year: 2024
-  id: mlsys24
+  year: 2025
+  id: mlsys25
   full_name: Conference on Machine Learning and Systems
   link: https://mlsys.org/
-  deadline: '2023-10-27 15:59:59'
-  timezone: UTC-5
+  deadline: '2024-10-31 19:59:59'
+  timezone: UTC
   place: Santa Clara, USA
-  date: May 13-16, 2024
-  start: 2024-05-13
-  end: 2024-05-16
+  date: May 12-15, 2025
+  start: 2025-05-12
+  end: 2025-05-15
   hindex: -1
   sub: MIX
-  note: More info <a href='https://mlsys.org/Conferences/2024/CallForPapers'>here</a>.
+  note: More info <a href='https://mlsys.org/Conferences/2025/CallForPapers'>here</a>.
 
 - title: ISPASS
-  year: 2024
-  id: ispass24
+  year: 2025
+  id: ispass25
   full_name: International Symposium on Performance Analysis of Systems and Software
   link: https://ispass.org/
-  deadline: '2023-12-18 23:59:59'
-  abstract_deadline: '2023-12-08 23:59:59'
+  deadline: '2024-12-16 23:59:59'
+  abstract_deadline: '2023-12-09 23:59:59'
   timezone: UTC-12
-  place: Indianapolis, USA
-  date: May 05-07, 2024
-  start: 2024-05-05
-  end: 2024-05-07
+  place: Ghent, Belgium
+  date: May 11-13, 2025
+  start: 2025-05-11
+  end: 2025-05-13
   hindex: -1
   sub: MIX
   rank: A3
-  note: Mandatory abstract deadline on December 08, 2023. More info <a href='https://ispass.org/ispass2024/'>here</a>.
+  note: Mandatory abstract deadline on December 09, 2024. More info <a href='https://ispass.org/ispass2025/'>here</a>.
 
 - title: IISWC
   year: 2024
@@ -233,38 +233,38 @@
 
 #----------------HPC----------------#
 - title: SC
-  year: 2024
-  id: sc24
+  year: 2025
+  id: sc25
   full_name: International Conference for High Performance Computing, Networking, Storage, and Analysis
-  link: https://sc24.supercomputing.org/
-  deadline: '2024-04-02 23:59:59'
-  abstract_deadline: '2024-03-26 23:59:59'
+  link: https://sc25.supercomputing.org/
+  deadline: '2025-04-14 23:59:59'
+  abstract_deadline: '2025-04-07 23:59:59'
   timezone: UTC-12
-  place: Atlanta, USA
-  date: Nov 17-22, 2024
-  start: 2024-11-17
-  end: 2024-11-22
+  place: St. Louis, Missouri, USA
+  date: Nov 16-21, 2025
+  start: 2025-11-16
+  end: 2025-11-21
   hindex: -1
   sub: HPC
   rank: A1
-  note: Mandatory abstract deadline on March 26, 2024. More info <a href='https://sc24.supercomputing.org/program/papers/'>here</a>.
+  note: Mandatory abstract deadline on April 07, 2025. More info <a href='https://sc25.supercomputing.org/program/papers/'>here</a>.
 
 - title: ICS
-  year: 2024
-  id: ics24
+  year: 2025
+  id: ics25
   full_name: International Conference on Supercomputing
-  link: https://ics2024.github.io/
-  deadline: '2024-01-18 23:59:59'
-  abstract_deadline: '2024-01-11 23:59:59'
+  link: https://hpcrl.github.io/ICS2025-webpage/
+  deadline: '2025-01-16 23:59:59'
+  abstract_deadline: '2025-01-13 23:59:59'
   timezone: UTC-12
-  place: Kyoto, Japan
-  date: Jun 04-07, 2024
-  start: 2024-06-04
-  end: 2024-06-07
+  place: Salt Lake City, USA
+  date: Jun 09-11, 2025
+  start: 2025-06-09
+  end: 2025-06-11
   hindex: -1
   sub: HPC
   rank: A2
-  note: Mandatory abstract deadline on January 11, 2024. More info <a href='https://ics2024.github.io/cfp.html'>here</a>.
+  note: Mandatory abstract deadline on January 13, 2025. More info <a href='https://hpcrl.github.io/ICS2025-webpage/call-for/call-for-papers.html'>here</a>.
 
 - title: HiPC
   year: 2024
