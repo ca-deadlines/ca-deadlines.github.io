@@ -132,20 +132,20 @@
 
 #----------------EDA----------------#
 - title: ESWEEK
-  year: 2024
-  id: esweek24
+  year: 2025
+  id: esweek25
   full_name: Embedded Systems Week
   link: https://esweek.org/
-  deadline: '2024-03-31 23:59:59'
-  abstract_deadline: '2024-03-24 23:59:59'
+  deadline: '2025-03-30 23:59:59'
+  abstract_deadline: '2025-03-23 23:59:59'
   timezone: UTC-12
-  place: Raleigh, USA
-  date: Sep 29-Oct 04, 2024
-  start: 2024-09-29
-  end: 2024-10-04
+  place: Taipei, Taiwan
+  date: Sep 28-Oct 03, 2025
+  start: 2025-09-28
+  end: 2025-10-03
   hindex: -1
   sub: EDA
-  note: Mandatory abstract deadline on March 24, 2024. More info <a href='https://esweek.org/author-information/'>here</a>.
+  note: Mandatory abstract deadline on March 23, 2025. More info <a href='https://esweek.org/author-information/'>here</a>.
 
 - title: DAC
   year: 2025
