@@ -302,20 +302,21 @@
   note: Mandatory abstract deadline on November 15, 2024. More info <a href='https://www.iscaconf.org/isca2025/submit/papers.php'>here</a>.
 
 - title: ASPLOS
-  year: 2025
-  id: asplos25
+  year: 2026
+  id: asplos26
   full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
-  link: https://www.asplos-conference.org/asplos2025/
-  deadline: '2024-10-18 23:59:59'
-  timezone: UTC-12
-  place: Rotterdam, Netherlands
-  date: Mar 30-Apr 03, 2025
-  start: 2025-03-30
-  end: 2025-04-03
+  link: https://www.asplos-conference.org/asplos2026/
+  deadline: '2025-03-12 23:59:59'
+  abstract_deadline: '2025-03-05 23:59:59'
+  timezone: UTC-4
+  place: N. A.
+  date: N. A.
+  start: N. A.
+  end: N. A.
   hindex: -1
   sub: CA
   rank: A1
-  note: This is the Fall cycle. More info <a href='https://www.asplos-conference.org/asplos2025/cfp/'>here</a>.
+  note: Mandatory abstract deadline on March 05, 2025 (UTC-5). This is the Spring cycle. More info <a href='https://www.asplos-conference.org/asplos2026/cfp/'>here</a>.
 
 - title: HPCA
   year: 2025
