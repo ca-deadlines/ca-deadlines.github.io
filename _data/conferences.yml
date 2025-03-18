@@ -115,20 +115,20 @@
   note: Mandatory abstract deadline on May 08, 2023. More info <a href='https://nocs2023.github.io/cfp.html'>here</a>.
 
 - title: HotI
-  year: 2024
-  id: hoti24
+  year: 2025
+  id: hoti25
   full_name: International Symposium on High-Performance Interconnects
   link: https://hoti.org/
-  deadline: '2024-05-27 23:59:59'
-  abstract_deadline: '2024-05-27 23:59:59'
+  deadline: '2025-05-23 23:59:59'
+  abstract_deadline: '2025-05-09 23:59:59'
   timezone: UTC-12
   place: Online
-  date: Aug 21-23, 2024
-  start: 2024-08-21
-  end: 2024-08-23
+  date: Aug 20-22, 2024
+  start: 2025-08-20
+  end: 2025-08-22
   hindex: -1
   sub: NoC
-  note: Mandatory abstract deadline on May 27, 2024. More info <a href='https://hoti.org/2024/call-for-papers'>here</a>.
+  note: Mandatory abstract deadline on May 09, 2025. More info <a href='https://hoti.org/call-for-papers.html'>here</a>.
 
 #----------------EDA----------------#
 - title: ESWEEK
@@ -306,8 +306,8 @@
   id: asplos26
   full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
   link: https://www.asplos-conference.org/asplos2026/
-  deadline: '2025-03-12 23:59:59'
-  abstract_deadline: '2025-03-05 23:59:59'
+  deadline: '2025-08-20 23:59:59'
+  abstract_deadline: '2025-08-13 23:59:59'
   timezone: UTC-4
   place: N. A.
   date: N. A.
@@ -316,7 +316,7 @@
   hindex: -1
   sub: CA
   rank: A1
-  note: Mandatory abstract deadline on March 05, 2025. This is the Spring cycle. More info <a href='https://www.asplos-conference.org/asplos2026/cfp/'>here</a>.
+  note: Mandatory abstract deadline on August 13, 2025. This is the Summer cycle. More info <a href='https://www.asplos-conference.org/asplos2026/cfp/'>here</a>.
 
 - title: HPCA
   year: 2025
@@ -336,36 +336,36 @@
   note: Mandatory abstract deadline on July 26, 2024. More info <a href='https://hpca-conf.org/2025/call-for-papers/'>here</a>.
 
 - title: HiPEAC
-  year: 2025
-  id: hipeac25
+  year: 2026
+  id: hipeac26
   full_name: International Conference on High Performance Embedded Architectures and Compilers
-  link: https://www.hipeac.net/2025/barcelona/#/
-  deadline: '2024-05-31 23:59:59'
+  link: https://www.hipeac.net/
+  deadline: '2025-05-31 23:59:59'
   timezone: UTC-12
-  place: Barcelona, Spain
+  place: TBA
   date: TBA
   start: TBA
   end: TBA
   hindex: -1
   sub: CA
-  note: More info <a href='https://www.hipeac.net/2025/barcelona/#/call-for-papers/'>here</a>.
+  note: TBA
 
 - title: ICCD
-  year: 2024
-  id: iccd24
+  year: 2025
+  id: iccd25
   full_name: International Conference on Computer Design
   link: https://www.iccd-conf.com/
-  deadline: '2024-05-20 23:59:59'
-  abstract_deadline: '2024-05-20 23:59:59'
+  deadline: '2025-05-11 23:59:59'
+  abstract_deadline: '2025-05-04 23:59:59'
   timezone: UTC-12
-  place: Milan, Italy
-  date: TBA
-  start: TBA
-  end: TBA
+  place: Dallas, USA
+  date: Nov 10-12, 2025
+  start: 2025-11-10
+  end: 2025-11-12
   hindex: -1
   sub: CA
   rank: A3
-  note: Mandatory abstract deadline on May 05, 2024. More info <a href='https://www.iccd-conf.com/Call_for_papers.html'>here</a>.
+  note: Mandatory abstract deadline on May 04, 2025. More info <a href='https://www.iccd-conf.com/Call_for_papers.html'>here</a>.
 
 - title: MICRO
   year: 2025
@@ -385,18 +385,18 @@
   note: Mandatory abstract deadline on April 04, 2025. More info <a href='https://microarch.org/micro58/submit/papers.php'>here</a>.
 
 - title: PACT
-  year: 2024
-  id: pact24
+  year: 2025
+  id: pact25
   full_name: International Conference on Parallel Architectures and Compilation Techniques
-  link: https://pact2024.github.io/
-  deadline: '2024-03-27 23:59:59'
-  abstract_deadline: '2024-03-22 23:59:59'
+  link: https://pact2025.github.io/
+  deadline: '2025-04-18 23:59:59'
+  abstract_deadline: '2025-04-11 23:59:59'
   timezone: UTC-12
   place: California, USA
-  date: Oct 13-16, 2024
-  start: 2024-10-13
-  end: 2024-10-16
+  date: Nov 03-06, 2025
+  start: 2025-11-03
+  end: 2025-11-06
   hindex: -1
   sub: CA
   rank: A2
-  note: Mandatory abstract deadline on March 22, 2024. More info <a href='https://pact2024.github.io/submit/'>here</a>.
+  note: Mandatory abstract deadline on April 11, 2025. More info <a href='https://pact2025.github.io/submit/'>here</a>.
